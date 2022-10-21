@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello. We are Dreamcastle System, and nice to meet you.
 
-### More Information
+I am Fettgo the host, most known as 'Fe', an MtX transgender with a free spirit.
 
-A place to include any other types of information that you'd like to include about yourself.
+I hope you can enjoy this site, but this site is mainly for self-recording, so maybe its no good to leave anything unfriendly here.
 
-### Contact me
+Alright, if you wanna find us, try these links:
 
-[email@domain.com](mailto:email@domain.com)
+Mail: <mailto: fe2-o3@naver.com>
+Zhihu: <https://www.zhihu.com/people/dujiu123456789>
+Bilibili: <https://space.bilibili.com/1351440389>
